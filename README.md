@@ -1,5 +1,7 @@
 # PROJECT CEDGM : COMPUTERIZED ELECTRONIC DIFFERENTIAL GEAR MECHANISM
 
+<img width="715" height="715" alt="image" src="https://github.com/user-attachments/assets/01364dd7-0ade-43f1-a03b-7f7150a98125" />
+
 Welcome to the **PROJECT CEDGM : COMPUTERIZED ELECTRONIC DIFFERENTIAL GEAR MECHANISM** project. This repository contains the complete suite of mechanical designs, electronic documentation, and firmware required to build, assemble, and run an Arduino-controlled Differential Gear Mechanism.
 
 ## Project Structure
