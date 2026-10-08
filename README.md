@@ -66,6 +66,7 @@ To build this project physically, you will need:
 2. Open `04 - POWER SUPPLY & PIN CONFIGURATION DOCUMENTATION.pdf` in the Electronics folder to find the exact pin mapping.
 3. Wire the ULN2003 Driver Board to the corresponding Digital I/O pins on the **Arduino UNO**.
 4. Connect the power supply safely, ensuring the Arduino and the Motors receive appropriate voltage (do not draw stepper motor power directly from the Arduino's 5V pin if under heavy load).
+5. Important: Use 5V - 2A Power Supply.
 
 ### Step 3: Software Setup & Flashing
 
